@@ -21,7 +21,7 @@ AI-powered PDF knowledge extraction and summarization application.
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/pdf-summarizer.git
+git clone https://github.com/ilyas7/pdf-summarizer.git
 cd pdf-summarizer
 
 # Create virtual environment
